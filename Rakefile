@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ui_themeswitcher"
   gem.homepage = "http://github.com/kristianmandrup/ui_themeswitcher"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{jQuery UI themeswitcher for Rails 3+}
+  gem.description = %Q{Facilitates adding the themeswitcher to your Rails 3 project}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile
